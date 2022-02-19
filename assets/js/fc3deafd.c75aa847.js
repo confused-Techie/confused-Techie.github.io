@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconfused_techie_github_io=self.webpackChunkconfused_techie_github_io||[]).push([[659],{4568:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/go","name":"go","count":1,"permalink":"/blog/tags/go"}')}}]);

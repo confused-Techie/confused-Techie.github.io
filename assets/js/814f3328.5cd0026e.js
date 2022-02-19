@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconfused_techie_github_io=self.webpackChunkconfused_techie_github_io||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Golang Effects of GZIP","permalink":"/blog/golang-gzip"}]}')}}]);

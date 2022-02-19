@@ -12,6 +12,8 @@
         <id>golang-gzip</id>
         <link href="https://confused-Techie.github.io/blog/golang-gzip"/>
         <updated>2021-02-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[First Blog port with Docusaurus 2.]]></summary>
+        <content type="html"><![CDATA[<p>HHello again</p>]]></content>
         <author>
             <name>confused-Techie</name>
             <uri>https://github.com/confused-Techie</uri>

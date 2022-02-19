@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>confused-Techie Blog</title>
         <link>https://confused-Techie.github.io/blog</link>
@@ -12,6 +12,8 @@
             <link>https://confused-Techie.github.io/blog/golang-gzip</link>
             <guid>golang-gzip</guid>
             <pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[First Blog port with Docusaurus 2.]]></description>
+            <content:encoded><![CDATA[<p>HHello again</p>]]></content:encoded>
             <category>go</category>
             <category>golang</category>
             <category>gzip</category>

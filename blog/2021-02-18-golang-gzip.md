@@ -6,11 +6,11 @@ authors:
   confused-Techie
 tags: [go, golang, gzip, http]
 hide_table_of_contents: false
-image: ''
+image: 'https://github.com/confused-Techie/confused-Techie.png'
 ---
 
 # Welcome to the blog
 
 <!--truncate-->
 
-HHello again 
+HHello again

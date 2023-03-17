@@ -1,7 +1,7 @@
 ---
-title: Resume - For those looking to hire me
 lang: en-US
 ---
+# Resume - For those looking to hire me
 
 Welcome! Glad to see you've followed the link in my resume to further review my work, and am happy to introduce myself here.
 

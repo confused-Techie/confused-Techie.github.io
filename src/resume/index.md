@@ -3,8 +3,6 @@ title: Resume - For those looking to hire me
 lang: en-US
 ---
 
-# Resume - For those looking to hire me
-
 Welcome! Glad to see you've followed the link in my resume to further review my work, and am happy to introduce myself here.
 
 My name (on GitHub at least) is [`confused-Techie`](https://github.com/confused-Techie). I have been programming for as long as I can remember, and have been focused on technology and the general IT sector since I've entered the workforce.

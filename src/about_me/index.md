@@ -1,7 +1,8 @@
 ---
 lang: en-US
-title: About Me
 ---
+
+# About Me
 
 I'm a developer dedicated to Open Source, with a passion for the Self Hosted Software community, who would prefer to patch CVE's rather than work with CSS.
 

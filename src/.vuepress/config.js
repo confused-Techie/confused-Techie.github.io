@@ -43,11 +43,11 @@ module.exports = {
       },
       {
         text: "About Me",
-        link: "/"
+        link: "/about_me/"
       },
       {
         text: "GitHub",
-        link: "https://github.com/confused-Techie/"
+        link: "/github/"
       }
     ],
 

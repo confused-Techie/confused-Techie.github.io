@@ -11,26 +11,9 @@ This page here is where I can hope to highlight some of my programming based acc
 
 Make sure to check out my other pages above!
 * [About Me](/about_me/)
+* [My Perfect Tech Stack](/#my-perfect-tech-stack)
 
 ---
-
-## My Perfect Tech Stack
-
-When I'm the master of my own domain, and able to make all choices for a tech stack, ideally below is what I'd be using.
-Of course function comes before familiarity and I'd ensure no other tools are better suited for the job.
-
-But in a perfect world:
-
-* `NodeJS` would be the execution environment.
-* `JavaScript` would be the language of choice.
-* `Google Cloud` would be used to host any services needed.
-* `EJS` would serve as the HTML templating language.
-* `Jest` would be the test runner suite.
-* `ExpressJS` would be the HTTP handler.
-* `PostgreSQL` would be the Database.
-* `JSDoc` would be the documentation builder.
-* `Tailwind` would be the CSS Framework.
-* `Docker` would be the manager of any microservices.
 
 ## What am I doing now
 

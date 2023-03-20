@@ -1,6 +1,5 @@
 ---
 lang: en-US
-title: Resume
 ---
 # Resume - For those looking to hire me
 
